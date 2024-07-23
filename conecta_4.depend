@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1705637097 source:c:\users\kevin\documents\programacion\conecta_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tablero.h"
+
+1705641300 c:\users\kevin\documents\programacion\conecta_4\tablero.h
+	<time.h>
+	<windows.h>
+	<stdbool.h>
+
+1705721341 source:c:\users\kevin\documents\programacion\conecta_4\tablero.c
+	<stdlib.h>
+	<stdio.h>
+	"tablero.h"
+
